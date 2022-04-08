@@ -1,3 +1,8 @@
+# Forked from SimpleMethod/STM32-OV2640
+SimpleMethod library for OV2640 camera on STM32 platform forked and adapted to capture RAW pictures and display on ILI9486.
+
+
+
 # Fully implementation library support OV2640 camera on STM32 platform
 ![POC](https://raw.githubusercontent.com/SimpleMethod/STM32-OV2640/master/readme/6.png)
 
