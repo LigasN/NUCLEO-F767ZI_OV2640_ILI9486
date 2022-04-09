@@ -1,0 +1,29 @@
+Language:        Cpp
+BasedOnStyle:  LLVM
+AlignConsecutiveAssignments: true
+AlwaysBreakTemplateDeclarations: true
+BreakBeforeBraces: Custom
+BraceWrapping:   
+  AfterClass:             true
+  AfterControlStatement:  true
+  AfterCaseLabel:         true
+  AfterEnum:              true
+  AfterFunction:          true
+  AfterNamespace:         true
+  AfterObjCDeclaration:   true
+  AfterStruct:            true
+  AfterUnion:             true
+  BeforeCatch:            true
+  BeforeElse:             true
+  IndentBraces:           false
+IndentCaseLabels: true
+BreakBeforeBinaryOperators: None
+BreakBeforeTernaryOperators: true
+BreakConstructorInitializersBeforeComma: true
+PointerAlignment: Left
+BinPackParameters: true
+BinPackArguments: true
+AlignTrailingComments: true
+AlignAfterOpenBracket: true
+IndentWidth: 4
+ColumnLimit: 80
