@@ -91,8 +91,8 @@
 //#define RES1024x768
 //#define RES1280x960
 
-#define STM160x120
-//#define STM320x240
+//#define STM160x120
+#define STM320x240
 //#define STM480x272
 //#define STM640x480
 

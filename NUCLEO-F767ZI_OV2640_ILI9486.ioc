@@ -1,7 +1,7 @@
 #MicroXplorer Configuration settings - do not modify
 DCMI.HSPolarity=DCMI_HSPOLARITY_LOW
 DCMI.IPParameters=VSPolarity,PCKPolarity,JPEGMode,HSPolarity
-DCMI.JPEGMode=DCMI_JPEG_ENABLE
+DCMI.JPEGMode=DCMI_JPEG_DISABLE
 DCMI.PCKPolarity=DCMI_PCKPOLARITY_RISING
 DCMI.VSPolarity=DCMI_VSPOLARITY_LOW
 Dma.DCMI.0.Direction=DMA_PERIPH_TO_MEMORY
